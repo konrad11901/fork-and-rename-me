@@ -4,6 +4,7 @@ distributions.</p>
 
 [![Snap Status](https://build.snapcraft.io/badge/konrad11901/tosheets-snap.svg)](https://build.snapcraft.io/user/konrad11901/tosheets-snap)
 
+> The author of this tool is **kren1**. The original repository can be found [here](https://github.com/kren1/tosheets).
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
 <a href="https://build.snapcraft.io/user/snapcrafters/fork-and-rename-me"><img src="https://build.snapcraft.io/badge/snapcrafters/fork-and-rename-me.svg" alt="Snap Status"></a>
