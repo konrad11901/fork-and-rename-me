@@ -20,6 +20,8 @@ distributions.</p>
 <!-- Uncomment and modify this when you have a screenshot
 ![my-snap-name](screenshot.png?raw=true "my-snap-name")
 -->
+## Known issues
+* When running tosheets for the first time, it should open the default browser with the Google Account login page loaded. Unluckily, it doesn't work, so you need to open the outputted link manually. This issue doesn't occure if the snap is installed in devmode.
 
 <p align="center">Published for <img src="http://anything.codes/slack-emoji-for-techies/emoji/tux.png" align="top" width="24" /> with :gift_heart: by Snapcrafters</p>
 
