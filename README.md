@@ -1,3 +1,4 @@
+<h1 align="center">tosheets</h1>
 <p align="center"><b>This is the snap for tosheets</b>, <i>"A simple command line utility that sends your stdin to sheets"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
 
