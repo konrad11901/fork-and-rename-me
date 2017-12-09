@@ -9,7 +9,7 @@ confinement: strict
 apps:
   tosheets:
     command: tosheets
-    plugs: [network, network-bind]
+    plugs: [network, network-bind, desktop]
 parts:
   tosheets:
     source: https://pypi.python.org/packages/cd/2a/f85f3b7128bd2a690985765330685efd2bc513d37f62f4dd8c4147ee34a3/tosheets-0.2.0.tar.gz
