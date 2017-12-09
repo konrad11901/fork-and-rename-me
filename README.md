@@ -1,7 +1,7 @@
 <h1 align="center">tosheets</h1>
 <p align="center"><b>This is the snap for tosheets</b>, <i>"A simple command line utility that sends your stdin to sheets"</i>. It works on Ubuntu, Fedora, Debian, and other major Linux
 distributions.</p>
-
+[![Snap Status](https://build.snapcraft.io/badge/konrad11901/tosheets-snap.svg)](https://build.snapcraft.io/user/konrad11901/tosheets-snap)
 <!-- Uncomment and modify this when you are provided a build status badge
 <p align="center">
 <a href="https://build.snapcraft.io/user/snapcrafters/fork-and-rename-me"><img src="https://build.snapcraft.io/badge/snapcrafters/fork-and-rename-me.svg" alt="Snap Status"></a>
