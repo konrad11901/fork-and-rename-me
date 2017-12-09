@@ -1,0 +1,16 @@
+name: tosheets
+version: '0.1'
+summary: Command line utility that sends your stdin to sheets
+description: |
+   A simple command line utility written in Python that sends your stdin to sheets.
+
+grade: stable
+confinement: strict
+apps:
+  tosheets:
+    command: tosheets
+    plugs: [network, network-bind]
+parts:
+  tosheets:
+    source: https://pypi.python.org/packages/cd/2a/f85f3b7128bd2a690985765330685efd2bc513d37f62f4dd8c4147ee34a3/tosheets-0.2.0.tar.gz
+    plugin: python
